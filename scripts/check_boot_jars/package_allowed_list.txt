@@ -302,6 +302,9 @@ vendor\.lineage\.health.*
 vendor\.lineage\.livedisplay.*
 vendor\.lineage\.touch.*
 
+# Nothing
+com\.nothing.*
+
 # Oplus adds
 com\.oplus\..*
 com\.oplus\.os
