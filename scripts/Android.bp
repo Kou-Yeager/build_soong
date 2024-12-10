@@ -303,6 +303,9 @@ python_binary_host {
     name: "gen_build_prop",
     main: "gen_build_prop.py",
     srcs: ["gen_build_prop.py"],
+    name: "buildinfo",
+    main: "buildinfo.py",
+    srcs: ["buildinfo.py"],
 }
 
 python_binary_host {
